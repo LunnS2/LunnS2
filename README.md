@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lunn
+- 👋 Hi, I’m Tiago Morna
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m always learning — currently: Typescript, Convex, Clerk...
 - 💞️ I’m looking to collaborate in any project that gives me the possibility to learn more
