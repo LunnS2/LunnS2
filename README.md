@@ -12,6 +12,7 @@
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/d92002e8-8253-4011-b4b0-0df544ce5f18" width="50"><br>JavaScript</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/f964d91d-02e8-4c96-a3f0-7c47ad4409ed" width="50"><br>Python</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/bfc513ff-1bf1-4782-a483-1fe57fca8e3a" width="50"><br>TypeScript</td>
   </tr>
 </table>
 
