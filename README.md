@@ -6,6 +6,7 @@
 - I'm currently developing my portfolio website and its projects while strengthening my skills  
 
 ## 🚀 Tech Stack
+![Uploading json.svg…]()
 
 ### Programming Languages
 <table>
@@ -48,7 +49,7 @@
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/4ebaf0ea-ffb3-4b37-b457-bc2c8281ab73" width="50"><br>PostgreSQL</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/040c28b1-79fa-4a1a-95db-114220170a26" width="50"><br>MongoDB</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/cc3a30e0-8d93-45f5-89f6-f15d20712e7b" width="50"><br>JSON Schema</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/json.svg" width="50"><br>JSON</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/49611207-ddee-4af5-b427-e5065f8c474c" width="50"><br>Postman</td>
   </tr>
 </table>
