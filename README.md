@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate in any project that gives me the possibility to learn more  
 - 💻 I'm currently developing my portfolio website and its projects while strengthening my skills  
 
-## 🚀 Tech Stack
+{/*## 🚀 Tech Stack
 
 ### Programming Languages
 <table>
@@ -62,3 +62,4 @@
     <td align="center"><img src="https://github.com/user-attachments/assets/ded5879e-22ab-42d7-8c69-92183ab48098" width="50"><br>Illustrator</td>
   </tr>
 </table>
+*/}
