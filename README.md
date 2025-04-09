@@ -5,5 +5,6 @@
 - 💞️ I’m open to collaborating on projects that offer opportunities to grow and learn  
 - 💻 I’m currently developing my portfolio and its featured projects while sharpening my skills
 
-📫 [Check out my portfolio](https://portfolio-lunn.vercel.app/)
+📫 <a href="https://portfolio-lunn.vercel.app/" target="_blank" rel="noopener noreferrer">Check out my portfolio</a>
+
 
